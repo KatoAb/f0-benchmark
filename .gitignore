@@ -1,0 +1,15 @@
+﻿# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Datasets and results
+data/
+results/
+
+# Literature
+literature/
+
+# AI files
+AGENTS.md
+pdf exports/
